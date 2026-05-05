@@ -1,0 +1,501 @@
+StartupName,Industry,Country,FoundedYear,FundingStage,TotalFunding_M,EmployeeCount,Revenue_M,GrowthRate,Valuation_B
+Startup_1,Biotech,France,2014,Series C,568.06,4813,760.62,74.54,2.46
+Startup_2,AI,Germany,2023,Series D,902.0,2732,125.66,19.82,1.25
+Startup_3,EdTech,Australia,2016,Series A,96.54,4805,693.07,62.11,1.79
+Startup_4,FoodTech,UK,2010,Series B,1065.03,310,17.45,97.14,1.59
+Startup_5,Biotech,Australia,2014,Series A,1250.34,270,170.66,22.27,1.7
+Startup_6,AgriTech,UK,2014,Seed,283.27,2922,244.09,54.85,1.05
+Startup_7,HealthTech,UK,2014,Series B,653.6,3364,233.69,63.13,1.44
+Startup_8,Mobility,Singapore,2021,Series A,217.85,1099,234.42,39.8,0.89
+Startup_9,Biotech,Netherlands,2018,Series B,689.54,4410,628.36,23.97,2.07
+Startup_10,Mobility,USA,2010,Series D,776.21,1662,474.34,9.41,1.77
+Startup_11,Cybersecurity,Canada,2017,Series D,915.24,1417,137.25,11.18,1.25
+Startup_12,HealthTech,USA,2011,Series C,1423.84,3316,772.54,81.8,3.38
+Startup_13,Gaming,Canada,2013,Series D,463.87,4481,79.04,70.0,0.97
+Startup_14,Fintech,India,2019,Series A,665.83,3645,98.51,52.04,1.12
+Startup_15,EdTech,Singapore,2021,Seed,61.24,1283,727.55,29.58,1.66
+Startup_16,Robotics,France,2010,Seed,997.16,4453,250.06,54.41,1.77
+Startup_17,AI,Australia,2011,Series B,824.6,830,148.7,97.11,1.61
+Startup_18,InsurTech,Canada,2019,Series B,1164.95,4836,751.66,90.01,3.12
+Startup_19,ClimateTech,UK,2012,Seed,900.87,4912,737.58,13.41,2.44
+Startup_20,Gaming,India,2022,Seed,302.01,4100,37.14,35.91,0.56
+Startup_21,Cybersecurity,Canada,2011,Series B,589.13,4556,217.81,83.73,1.44
+Startup_22,Robotics,UK,2013,Series C,541.56,4720,225.47,56.56,1.28
+Startup_23,CleanTech,Canada,2018,IPO,219.98,40,641.96,12.08,1.56
+Startup_24,InsurTech,UK,2021,IPO,1480.46,4977,618.02,23.88,2.84
+Startup_25,InsurTech,Singapore,2018,Series A,18.23,350,652.55,72.15,1.68
+Startup_26,ClimateTech,Canada,2017,Series B,1096.22,3360,617.25,12.03,2.39
+Startup_27,EdTech,Singapore,2019,Series D,544.11,3091,93.58,86.99,1.17
+Startup_28,CleanTech,Australia,2017,Series A,938.71,1488,265.39,11.04,1.52
+Startup_29,SpaceTech,USA,2015,Seed,473.36,4884,260.82,74.31,1.37
+Startup_30,Blockchain,Israel,2012,IPO,959.96,946,709.88,49.86,2.63
+Startup_31,Gaming,Singapore,2016,Series D,188.2,4769,570.88,77.27,1.72
+Startup_32,SpaceTech,Germany,2021,Series A,846.3,2061,617.0,51.91,2.34
+Startup_33,Blockchain,France,2012,Seed,788.87,4116,342.61,7.41,1.51
+Startup_34,Biotech,Singapore,2012,Series A,170.76,1365,26.11,65.46,0.55
+Startup_35,AgriTech,France,2022,Series B,478.39,2792,407.35,91.22,1.75
+Startup_36,Fintech,Singapore,2021,Series B,381.45,3956,328.9,76.78,1.42
+Startup_37,Logistics,India,2014,IPO,350.91,2083,62.51,32.53,0.64
+Startup_38,FoodTech,Canada,2014,Series A,250.22,1950,743.83,81.77,2.15
+Startup_39,Gaming,Israel,2021,Series B,953.77,1497,697.3,81.35,2.76
+Startup_40,Gaming,Israel,2020,Series B,287.99,2608,714.15,56.24,2.0
+Startup_41,Biotech,UK,2016,Series D,1213.09,3188,716.98,35.21,2.82
+Startup_42,ClimateTech,USA,2021,IPO,173.98,1861,183.12,45.58,0.77
+Startup_43,AI,India,2011,Series C,1228.84,97,688.72,5.66,2.63
+Startup_44,FoodTech,USA,2015,Series D,771.01,4155,334.51,26.1,1.57
+Startup_45,PropTech,Singapore,2021,Seed,188.6,1297,270.75,94.58,1.2
+Startup_46,Cybersecurity,Canada,2015,Seed,491.57,2564,415.51,71.79,1.68
+Startup_47,SaaS,Canada,2022,Series C,551.81,4814,777.45,96.43,2.59
+Startup_48,EdTech,Netherlands,2019,Series A,385.16,2297,398.3,33.58,1.35
+Startup_49,PropTech,UK,2021,Series A,434.41,3890,30.47,62.91,0.81
+Startup_50,E-commerce,Netherlands,2011,Seed,758.99,701,42.13,31.47,1.0
+Startup_51,ClimateTech,Netherlands,2013,Seed,1363.32,1502,192.41,18.77,1.84
+Startup_52,Logistics,Singapore,2011,IPO,739.28,340,788.53,28.0,2.46
+Startup_53,Mobility,USA,2021,Series B,1011.48,426,609.53,27.58,2.37
+Startup_54,FoodTech,India,2023,IPO,1095.04,1161,294.86,65.07,2.01
+Startup_55,Blockchain,Israel,2020,IPO,953.96,1554,429.08,13.58,1.88
+Startup_56,SaaS,Israel,2011,Series B,1254.6,3888,257.3,22.72,1.88
+Startup_57,ClimateTech,Israel,2020,IPO,70.75,2463,473.12,69.37,1.36
+Startup_58,InsurTech,Israel,2013,IPO,34.72,2759,410.16,26.52,0.99
+Startup_59,Mobility,Israel,2013,Seed,971.31,2523,140.32,70.64,1.61
+Startup_60,AgriTech,Canada,2021,Seed,586.24,1771,749.45,18.06,2.18
+Startup_61,ClimateTech,Netherlands,2018,Seed,518.19,4994,91.67,92.85,1.17
+Startup_62,Cybersecurity,Australia,2017,Series C,1317.24,800,207.1,67.7,2.07
+Startup_63,Mobility,UK,2013,Seed,1227.66,908,444.61,55.32,2.39
+Startup_64,Cybersecurity,France,2010,IPO,370.36,1991,75.39,90.24,0.97
+Startup_65,Gaming,India,2010,Series A,1351.62,3486,506.85,37.21,2.55
+Startup_66,AI,Netherlands,2011,Seed,530.32,3416,581.04,90.23,2.14
+Startup_67,CleanTech,Australia,2018,Series D,1331.76,713,624.12,65.99,2.91
+Startup_68,Logistics,India,2010,Series A,135.37,1828,130.14,90.36,0.85
+Startup_69,SpaceTech,Israel,2019,Series B,913.58,184,8.35,14.64,1.0
+Startup_70,Mobility,UK,2013,Seed,998.62,3103,5.04,20.28,1.11
+Startup_71,InsurTech,Netherlands,2012,IPO,827.61,3499,553.82,66.94,2.27
+Startup_72,SaaS,Australia,2020,IPO,344.16,4567,570.03,27.54,1.62
+Startup_73,Biotech,India,2019,Series C,494.85,2830,597.45,66.72,2.02
+Startup_74,Logistics,Netherlands,2013,Series B,1275.34,2854,526.43,58.99,2.62
+Startup_75,CleanTech,Australia,2012,Series C,149.58,2330,294.8,30.19,0.89
+Startup_76,AI,Australia,2023,Seed,373.54,491,778.44,42.34,2.14
+Startup_77,Gaming,India,2018,IPO,1339.15,408,505.28,80.51,2.75
+Startup_78,Biotech,India,2021,Series C,758.93,3616,461.95,51.79,1.94
+Startup_79,FoodTech,Israel,2021,Series A,300.91,2890,578.24,31.67,1.62
+Startup_80,EdTech,USA,2010,Series C,46.23,896,516.73,21.83,1.19
+Startup_81,Blockchain,Germany,2023,IPO,1411.28,3173,763.19,91.91,3.4
+Startup_82,Cybersecurity,UK,2021,Series B,561.54,1340,13.35,93.19,1.05
+Startup_83,AI,Singapore,2022,Series C,647.99,4940,773.36,96.54,2.68
+Startup_84,SaaS,Israel,2021,Seed,1280.98,3261,236.26,41.58,1.96
+Startup_85,Robotics,USA,2010,Series C,1278.19,1958,254.22,21.1,1.89
+Startup_86,Cybersecurity,France,2011,IPO,839.63,3711,748.99,71.12,2.69
+Startup_87,Robotics,Israel,2017,Series B,859.39,887,78.64,63.43,1.33
+Startup_88,Robotics,USA,2019,IPO,1485.18,2526,112.93,54.24,1.98
+Startup_89,Blockchain,India,2020,Series B,1317.29,867,592.87,71.22,2.86
+Startup_90,Biotech,Australia,2021,Series D,1056.7,1659,288.23,32.89,1.8
+Startup_91,Cybersecurity,Canada,2011,Series D,1215.95,1789,648.28,87.37,2.95
+Startup_92,PropTech,India,2022,Series D,1370.73,621,409.56,52.64,2.45
+Startup_93,CleanTech,Australia,2016,Series B,1199.46,4597,520.32,71.69,2.6
+Startup_94,EdTech,Singapore,2023,Series C,1195.73,1746,712.11,37.11,2.81
+Startup_95,Blockchain,Singapore,2022,Series C,569.62,2241,76.09,59.94,1.02
+Startup_96,PropTech,Singapore,2020,Series B,63.55,402,373.01,56.55,1.09
+Startup_97,Biotech,USA,2019,Series C,436.95,1590,473.08,7.9,1.42
+Startup_98,Biotech,India,2021,IPO,65.65,3691,658.26,39.22,1.58
+Startup_99,PropTech,Singapore,2014,IPO,199.32,4650,418.27,78.15,1.43
+Startup_100,CleanTech,Netherlands,2014,Series A,331.57,4973,498.69,13.11,1.39
+Startup_101,PropTech,Germany,2018,Series A,87.01,4808,425.55,56.36,1.22
+Startup_102,Blockchain,UK,2019,Seed,959.77,2378,581.15,97.71,2.61
+Startup_103,Robotics,Canada,2020,Series C,779.29,1797,259.04,80.54,1.7
+Startup_104,Fintech,France,2012,Series D,413.54,1850,351.74,12.45,1.18
+Startup_105,Blockchain,France,2019,Series B,47.77,2822,770.16,84.42,2.01
+Startup_106,FoodTech,India,2013,Series D,1047.0,3726,327.75,21.46,1.81
+Startup_107,CleanTech,UK,2020,IPO,243.09,243,200.94,57.18,0.93
+Startup_108,FoodTech,Singapore,2013,IPO,1074.75,551,528.5,31.59,2.29
+Startup_109,ClimateTech,Australia,2023,Seed,1432.75,3407,590.58,57.66,2.9
+Startup_110,Logistics,USA,2016,IPO,921.46,2657,336.26,28.53,1.74
+Startup_111,SaaS,Germany,2019,Seed,540.4,3038,606.52,6.37,1.79
+Startup_112,SpaceTech,India,2020,IPO,182.95,3482,37.76,8.87,0.3
+Startup_113,Mobility,Singapore,2014,Seed,1284.64,2721,563.22,50.05,2.66
+Startup_114,EdTech,Singapore,2015,Series B,155.77,3825,393.8,49.98,1.19
+Startup_115,Cybersecurity,Canada,2010,Series D,268.07,2834,347.65,42.86,1.18
+Startup_116,CleanTech,India,2013,IPO,927.62,3549,508.44,9.3,1.99
+Startup_117,Biotech,Canada,2012,Series C,568.17,2275,501.06,52.8,1.83
+Startup_118,AI,Netherlands,2010,Series A,1286.17,4995,527.3,20.48,2.44
+Startup_119,ClimateTech,USA,2012,Series D,115.15,4265,514.29,7.52,1.18
+Startup_120,E-commerce,Israel,2017,Series D,882.81,990,752.24,59.67,2.69
+Startup_121,FoodTech,Singapore,2012,Seed,588.37,3173,514.99,48.53,1.86
+Startup_122,HealthTech,India,2017,IPO,822.97,4965,753.23,41.68,2.54
+Startup_123,Blockchain,USA,2015,Series B,1442.17,2997,724.38,23.6,3.01
+Startup_124,Blockchain,Israel,2016,IPO,113.35,3742,81.52,6.73,0.31
+Startup_125,SaaS,Germany,2013,IPO,150.72,4644,546.72,11.76,1.3
+Startup_126,FoodTech,Israel,2011,Series D,485.27,3139,676.06,7.21,1.87
+Startup_127,AgriTech,UK,2023,Series B,1223.56,661,226.2,16.23,1.76
+Startup_128,Biotech,Canada,2021,Series C,1048.14,4238,503.53,88.36,2.5
+Startup_129,ClimateTech,Canada,2017,Series A,1105.26,1787,642.98,31.79,2.55
+Startup_130,EdTech,UK,2016,Series A,274.38,4386,600.74,81.65,1.88
+Startup_131,SpaceTech,Canada,2016,IPO,1485.85,3749,330.68,40.34,2.35
+Startup_132,Logistics,Singapore,2017,Seed,1166.86,4880,273.3,93.42,2.18
+Startup_133,ClimateTech,Israel,2010,Seed,1289.04,2805,343.77,76.33,2.36
+Startup_134,ClimateTech,USA,2011,Series A,1134.27,2475,83.4,90.74,1.75
+Startup_135,Fintech,Germany,2021,IPO,762.83,3274,661.34,35.4,2.26
+Startup_136,Cybersecurity,India,2011,Series C,1344.33,946,311.97,6.03,2.0
+Startup_137,ClimateTech,Singapore,2021,IPO,1359.02,347,73.94,35.33,1.68
+Startup_138,CleanTech,UK,2019,Series B,1425.59,298,760.54,59.48,3.24
+Startup_139,E-commerce,France,2013,Series C,951.44,2918,359.31,32.86,1.83
+Startup_140,InsurTech,UK,2022,IPO,499.71,1972,538.34,76.48,1.96
+Startup_141,Fintech,Canada,2015,Series A,1189.45,495,631.9,13.66,2.52
+Startup_142,CleanTech,France,2013,Series B,746.69,2620,46.99,57.21,1.13
+Startup_143,SpaceTech,Germany,2022,Seed,667.88,1693,710.28,38.34,2.28
+Startup_144,Fintech,Germany,2012,IPO,184.43,2163,115.25,77.34,0.8
+Startup_145,Robotics,UK,2017,Seed,931.14,1612,81.8,12.99,1.16
+Startup_146,SpaceTech,Netherlands,2016,Series B,1054.44,3123,59.14,83.08,1.59
+Startup_147,ClimateTech,France,2017,Series B,1062.3,1339,66.0,13.06,1.26
+Startup_148,Logistics,India,2023,Series D,1480.09,4779,300.04,40.21,2.28
+Startup_149,HealthTech,Germany,2021,Series B,1221.07,486,757.85,98.67,3.23
+Startup_150,SpaceTech,Germany,2022,Series C,1132.53,605,301.63,12.93,1.8
+Startup_151,EdTech,Israel,2016,IPO,1167.95,2114,447.16,45.3,2.29
+Startup_152,AgriTech,Netherlands,2012,Series A,1360.47,1776,89.85,51.8,1.8
+Startup_153,Cybersecurity,Canada,2013,Series A,26.92,2612,375.46,10.35,0.83
+Startup_154,SpaceTech,USA,2011,Series C,187.04,2917,94.9,66.67,0.71
+Startup_155,SaaS,Germany,2014,Seed,1121.61,3300,467.11,96.41,2.54
+Startup_156,EdTech,Australia,2017,Series B,568.56,4032,229.28,87.52,1.46
+Startup_157,SaaS,Netherlands,2012,IPO,343.16,4405,770.61,6.15,1.92
+Startup_158,Gaming,USA,2012,IPO,1455.12,647,35.48,89.66,1.97
+Startup_159,Gaming,Netherlands,2017,Series B,796.27,2675,794.38,12.01,2.45
+Startup_160,ClimateTech,Israel,2023,Seed,835.24,117,775.47,54.69,2.66
+Startup_161,Blockchain,Canada,2022,IPO,947.8,4398,556.9,48.18,2.3
+Startup_162,SpaceTech,Netherlands,2015,Series C,945.06,3812,467.87,90.61,2.33
+Startup_163,Cybersecurity,Germany,2013,Series A,77.72,1453,225.49,95.29,1.01
+Startup_164,Cybersecurity,Israel,2019,Series B,1336.49,1222,365.07,63.91,2.39
+Startup_165,InsurTech,Israel,2014,Series B,423.3,135,151.31,49.05,0.97
+Startup_166,InsurTech,Germany,2010,Seed,536.49,3002,467.34,12.38,1.53
+Startup_167,E-commerce,Canada,2017,Series B,1461.85,2005,788.98,71.33,3.4
+Startup_168,PropTech,Netherlands,2014,Series C,808.78,82,248.31,82.31,1.72
+Startup_169,ClimateTech,Netherlands,2015,Series C,1030.25,4419,130.93,91.54,1.75
+Startup_170,Fintech,UK,2019,Series A,1235.58,3786,759.89,73.94,3.13
+Startup_171,Fintech,Israel,2013,Series C,923.99,4538,335.18,93.61,2.06
+Startup_172,Logistics,India,2012,Series D,1300.44,3716,37.13,7.5,1.41
+Startup_173,CleanTech,Australia,2020,Series D,570.93,3630,648.63,98.79,2.36
+Startup_174,Gaming,Singapore,2021,Seed,234.12,3007,475.71,41.18,1.39
+Startup_175,Robotics,Singapore,2020,Series C,1455.17,1437,673.85,84.64,3.23
+Startup_176,Cybersecurity,UK,2016,Series C,708.35,2812,332.44,30.97,1.53
+Startup_177,Blockchain,UK,2018,IPO,94.0,308,691.91,82.23,1.89
+Startup_178,Biotech,Singapore,2013,Series D,1499.58,825,797.31,57.77,3.38
+Startup_179,HealthTech,India,2013,Seed,1155.79,3025,755.87,85.72,3.1
+Startup_180,Biotech,Netherlands,2015,IPO,378.55,3652,360.98,17.27,1.19
+Startup_181,Biotech,Netherlands,2020,Series C,1431.54,4162,485.33,26.72,2.54
+Startup_182,Logistics,Singapore,2018,Series A,1010.83,4637,494.88,39.03,2.2
+Startup_183,Biotech,Canada,2020,Series C,179.2,4999,537.59,54.43,1.53
+Startup_184,AgriTech,Israel,2012,Series C,1160.75,65,416.61,85.96,2.42
+Startup_185,Gaming,USA,2014,Series A,832.34,1529,449.19,88.28,2.17
+Startup_186,E-commerce,France,2010,Series D,611.19,267,108.08,7.73,0.87
+Startup_187,FoodTech,France,2014,IPO,1135.15,977,496.63,71.89,2.49
+Startup_188,AgriTech,India,2023,Series A,327.32,3471,109.96,6.38,0.58
+Startup_189,Biotech,USA,2019,Seed,532.38,462,472.34,42.26,1.69
+Startup_190,ClimateTech,Canada,2013,Series B,661.84,4432,723.42,38.08,2.3
+Startup_191,Blockchain,USA,2010,Series A,775.84,2496,627.14,42.67,2.24
+Startup_192,Biotech,India,2016,Series A,936.91,3780,690.03,95.2,2.79
+Startup_193,Blockchain,Singapore,2012,Series B,229.14,321,741.34,51.75,1.97
+Startup_194,Logistics,Singapore,2011,Seed,394.78,1311,367.85,98.1,1.62
+Startup_195,FoodTech,Canada,2015,IPO,744.0,3082,263.67,65.17,1.6
+Startup_196,FoodTech,UK,2010,Series C,367.82,2705,61.61,17.24,0.58
+Startup_197,HealthTech,USA,2010,IPO,200.79,1407,122.37,18.19,0.54
+Startup_198,Biotech,Germany,2018,Series D,964.9,941,146.32,37.84,1.45
+Startup_199,SpaceTech,Netherlands,2013,Series A,1346.21,3395,379.7,68.42,2.45
+Startup_200,Fintech,Germany,2023,IPO,266.76,1075,154.64,8.88,0.62
+Startup_201,AgriTech,Israel,2014,Series D,261.71,2188,223.59,21.82,0.82
+Startup_202,Logistics,Israel,2017,Series A,142.17,2141,97.39,48.77,0.58
+Startup_203,ClimateTech,Australia,2018,Series D,317.44,3303,292.05,52.82,1.17
+Startup_204,SaaS,Canada,2017,Seed,1038.69,1746,32.41,80.94,1.51
+Startup_205,ClimateTech,India,2016,Series B,945.57,3210,66.33,87.99,1.52
+Startup_206,EdTech,Australia,2013,IPO,1382.1,63,49.8,31.3,1.64
+Startup_207,Robotics,Germany,2015,Series C,1211.24,63,598.86,22.53,2.52
+Startup_208,PropTech,USA,2023,IPO,321.93,411,297.01,51.03,1.17
+Startup_209,HealthTech,India,2023,Seed,931.2,4257,295.76,48.94,1.77
+Startup_210,AI,UK,2016,IPO,1123.73,1484,30.31,28.98,1.33
+Startup_211,AI,USA,2019,Series C,1072.89,2768,716.27,53.61,2.77
+Startup_212,AI,Australia,2022,Series C,802.85,4267,86.63,47.5,1.21
+Startup_213,AI,Germany,2010,IPO,803.6,1347,194.73,30.58,1.35
+Startup_214,CleanTech,Netherlands,2017,Seed,572.15,2049,17.04,35.6,0.78
+Startup_215,SaaS,Israel,2012,Series C,325.06,3792,262.67,16.38,0.93
+Startup_216,Robotics,Germany,2022,Seed,1336.89,3479,475.28,69.51,2.64
+Startup_217,EdTech,France,2018,Series A,1185.87,1203,399.26,13.26,2.05
+Startup_218,CleanTech,Netherlands,2023,Series A,810.29,1314,469.89,75.82,2.13
+Startup_219,Fintech,Germany,2013,Series C,653.17,3241,102.94,31.96,1.02
+Startup_220,EdTech,USA,2020,Seed,550.99,1637,517.09,59.22,1.88
+Startup_221,InsurTech,Australia,2012,Series D,540.58,3965,789.23,62.55,2.43
+Startup_222,CleanTech,Israel,2014,Series A,363.47,3300,82.32,19.52,0.63
+Startup_223,ClimateTech,India,2020,Series C,376.48,2344,129.38,22.72,0.75
+Startup_224,Gaming,India,2019,IPO,434.79,2183,139.53,90.19,1.16
+Startup_225,PropTech,Netherlands,2022,Series A,129.55,2940,420.08,43.99,1.19
+Startup_226,SpaceTech,Singapore,2019,IPO,1473.74,423,90.52,42.8,1.87
+Startup_227,ClimateTech,France,2011,Series A,1454.51,53,692.54,82.62,3.25
+Startup_228,Cybersecurity,France,2021,Seed,394.28,754,137.54,68.52,1.01
+Startup_229,Gaming,Australia,2021,Series B,1394.77,659,445.85,59.3,2.58
+Startup_230,SaaS,Germany,2011,Series D,427.17,3320,615.82,22.77,1.77
+Startup_231,Fintech,India,2014,Series A,492.28,3853,340.92,53.22,1.44
+Startup_232,Fintech,Netherlands,2019,Series B,371.19,3720,92.75,63.01,0.87
+Startup_233,AgriTech,Australia,2022,Series A,440.06,53,465.41,19.66,1.47
+Startup_234,Mobility,Germany,2015,Series D,726.9,4402,426.54,9.92,1.63
+Startup_235,Fintech,Netherlands,2011,Series C,511.54,1406,108.4,11.02,0.78
+Startup_236,InsurTech,India,2022,Seed,1485.04,3867,258.56,81.94,2.41
+Startup_237,Biotech,India,2011,Series C,389.41,3481,545.52,77.22,1.87
+Startup_238,PropTech,Netherlands,2016,Series B,897.5,2679,377.79,44.12,1.87
+Startup_239,Fintech,USA,2015,IPO,529.81,821,743.69,83.91,2.44
+Startup_240,AI,Australia,2011,Seed,1447.89,4057,100.31,74.43,2.02
+Startup_241,SpaceTech,USA,2013,Series B,1408.13,1693,145.81,11.32,1.76
+Startup_242,EdTech,France,2021,Series A,1114.27,1256,460.0,84.97,2.46
+Startup_243,Mobility,Canada,2021,Series B,218.26,3327,636.42,24.15,1.61
+Startup_244,PropTech,UK,2023,Series D,253.85,4025,132.25,82.38,0.93
+Startup_245,Mobility,India,2020,Series D,1001.14,3090,418.93,39.09,2.03
+Startup_246,SpaceTech,Netherlands,2021,Seed,1317.03,3594,314.56,82.58,2.36
+Startup_247,Gaming,Israel,2021,Seed,664.31,2457,302.18,48.95,1.51
+Startup_248,Fintech,Israel,2020,Seed,459.05,4854,598.34,52.76,1.92
+Startup_249,FoodTech,Canada,2021,Seed,356.0,3437,719.76,41.47,2.0
+Startup_250,Blockchain,Netherlands,2018,Series D,819.89,4628,725.27,64.3,2.59
+Startup_251,Cybersecurity,India,2011,IPO,184.18,2358,751.93,64.63,2.01
+Startup_252,Cybersecurity,UK,2023,Series B,509.01,2211,112.28,80.43,1.14
+Startup_253,SpaceTech,Israel,2013,Series C,933.91,406,427.24,89.92,2.24
+Startup_254,FoodTech,Germany,2021,Series D,1185.01,1206,122.19,34.61,1.6
+Startup_255,ClimateTech,India,2023,Series D,380.25,1214,595.41,8.19,1.61
+Startup_256,E-commerce,Germany,2011,IPO,859.14,4828,610.2,88.29,2.52
+Startup_257,ClimateTech,France,2017,IPO,519.7,1398,657.18,15.51,1.91
+Startup_258,HealthTech,France,2017,Series C,1271.21,2114,102.86,42.74,1.69
+Startup_259,E-commerce,Australia,2012,Series A,1197.97,4368,120.78,26.78,1.57
+Startup_260,ClimateTech,Singapore,2011,Seed,1086.16,2172,576.31,65.91,2.57
+Startup_261,AI,Canada,2022,IPO,1043.98,653,434.64,28.92,2.06
+Startup_262,CleanTech,Netherlands,2021,Seed,525.09,302,146.1,91.3,1.27
+Startup_263,E-commerce,Canada,2011,Series B,879.25,4121,321.28,48.89,1.77
+Startup_264,Logistics,Canada,2014,Series A,1421.45,1647,123.53,60.69,1.97
+Startup_265,SaaS,Netherlands,2019,IPO,763.77,155,489.55,6.72,1.78
+Startup_266,PropTech,Netherlands,2011,IPO,1309.46,1600,745.76,58.69,3.09
+Startup_267,FoodTech,Australia,2013,Series C,1048.01,4909,738.08,72.19,2.89
+Startup_268,ClimateTech,UK,2017,Series B,237.28,2754,461.45,62.64,1.47
+Startup_269,SpaceTech,Israel,2017,Series C,641.95,421,589.42,93.76,2.29
+Startup_270,Blockchain,USA,2015,Series D,1389.1,4214,361.22,15.76,2.19
+Startup_271,SpaceTech,Australia,2017,Series D,1477.41,4700,671.28,16.84,2.9
+Startup_272,Mobility,Canada,2019,Series A,1382.05,3513,696.05,54.29,3.05
+Startup_273,Gaming,UK,2022,Series B,891.0,1936,319.8,10.2,1.58
+Startup_274,EdTech,UK,2014,Series A,509.44,901,642.48,5.44,1.82
+Startup_275,AgriTech,Netherlands,2018,Series A,506.91,4915,319.14,56.05,1.43
+Startup_276,SaaS,India,2018,Series D,1380.58,3220,277.73,37.96,2.13
+Startup_277,Blockchain,USA,2020,Seed,1108.88,4282,362.32,26.34,1.97
+Startup_278,CleanTech,Netherlands,2011,Series B,684.13,303,113.54,21.76,1.02
+Startup_279,Logistics,UK,2010,Series C,752.57,1443,335.72,91.91,1.88
+Startup_280,AI,India,2014,Series B,549.97,3107,464.89,65.07,1.81
+Startup_281,Mobility,India,2019,Seed,29.51,2795,531.17,21.91,1.2
+Startup_282,Cybersecurity,Canada,2020,Series D,1441.99,819,119.78,44.39,1.9
+Startup_283,Robotics,India,2014,Series B,137.17,3513,797.5,52.71,2.0
+Startup_284,AgriTech,Netherlands,2013,Series B,897.12,1099,54.59,76.25,1.39
+Startup_285,Robotics,Israel,2022,Series B,322.76,650,718.55,24.49,1.88
+Startup_286,E-commerce,Singapore,2010,Series A,294.12,1168,30.2,49.85,0.6
+Startup_287,Robotics,UK,2023,Series B,851.61,1132,53.5,78.68,1.35
+Startup_288,FoodTech,Australia,2022,Seed,685.4,2797,419.99,46.87,1.76
+Startup_289,Fintech,Israel,2018,Seed,607.14,66,448.15,19.75,1.6
+Startup_290,Gaming,Australia,2016,Series B,281.07,3654,689.57,94.88,2.13
+Startup_291,SpaceTech,Netherlands,2017,Series D,566.23,101,217.32,66.18,1.33
+Startup_292,Logistics,Israel,2023,Series D,619.01,1254,21.28,19.83,0.76
+Startup_293,CleanTech,Canada,2016,IPO,1076.8,2936,527.48,7.57,2.17
+Startup_294,PropTech,Netherlands,2011,Series C,340.74,1255,185.63,68.83,1.06
+Startup_295,SpaceTech,Canada,2020,Seed,39.37,1929,84.18,80.99,0.61
+Startup_296,HealthTech,Germany,2015,Series B,276.03,4361,522.54,27.63,1.46
+Startup_297,Mobility,India,2011,Series C,158.17,2862,195.29,73.62,0.92
+Startup_298,Blockchain,France,2020,Series A,1284.99,4523,664.35,42.73,2.83
+Startup_299,Cybersecurity,France,2022,IPO,1005.45,1773,164.78,32.85,1.5
+Startup_300,Cybersecurity,Australia,2015,Seed,1345.54,2407,11.39,13.12,1.43
+Startup_301,Blockchain,Israel,2012,Seed,319.75,2396,22.2,22.24,0.48
+Startup_302,ClimateTech,Singapore,2011,Series B,878.73,3426,337.72,89.8,2.0
+Startup_303,AgriTech,Israel,2014,IPO,1227.99,4975,274.11,29.65,1.92
+Startup_304,Blockchain,France,2018,Series D,575.74,1776,472.65,30.47,1.67
+Startup_305,HealthTech,Israel,2023,Seed,939.98,4587,328.12,57.44,1.88
+Startup_306,HealthTech,Israel,2022,Seed,659.83,2272,236.28,95.1,1.61
+Startup_307,E-commerce,Singapore,2017,Seed,1147.77,921,112.95,87.5,1.81
+Startup_308,Biotech,Germany,2017,Series A,736.27,2680,715.75,80.99,2.57
+Startup_309,HealthTech,UK,2014,Series B,643.57,1771,18.95,30.52,0.83
+Startup_310,CleanTech,India,2019,Series C,817.03,2024,507.15,29.5,1.98
+Startup_311,Robotics,Netherlands,2017,Series D,217.64,2481,668.11,98.52,2.05
+Startup_312,Robotics,Canada,2020,Series C,793.28,802,138.17,30.87,1.22
+Startup_313,Logistics,France,2015,Series A,37.4,51,731.52,16.19,1.58
+Startup_314,Robotics,UK,2021,Series B,869.01,4975,219.97,57.65,1.6
+Startup_315,Mobility,Germany,2022,Series C,980.62,1254,663.96,24.61,2.43
+Startup_316,Mobility,India,2018,Series D,26.38,539,110.37,90.5,0.7
+Startup_317,Cybersecurity,Germany,2014,Seed,1312.1,4897,478.33,62.05,2.58
+Startup_318,InsurTech,Netherlands,2011,Series B,1000.9,4844,141.12,91.87,1.74
+Startup_319,Gaming,Australia,2021,Series A,633.97,4210,307.13,54.3,1.52
+Startup_320,Biotech,Australia,2010,IPO,79.98,105,133.86,75.11,0.72
+Startup_321,SaaS,India,2010,Series C,133.37,588,482.92,28.31,1.24
+Startup_322,Blockchain,Netherlands,2013,Series B,590.05,2756,231.67,38.79,1.25
+Startup_323,Blockchain,UK,2022,IPO,1081.38,1970,238.4,58.81,1.85
+Startup_324,Cybersecurity,Israel,2018,Series C,719.32,4651,531.27,94.0,2.25
+Startup_325,InsurTech,USA,2021,IPO,1101.53,3744,172.74,7.96,1.49
+Startup_326,Gaming,France,2018,Series D,400.77,4609,476.47,9.89,1.4
+Startup_327,HealthTech,Canada,2020,Series C,749.59,2050,477.88,36.75,1.89
+Startup_328,ClimateTech,UK,2020,Seed,1158.66,3932,86.17,12.14,1.39
+Startup_329,FoodTech,Netherlands,2021,Series A,1095.0,1964,396.9,70.4,2.24
+Startup_330,Biotech,USA,2015,IPO,657.89,4169,197.88,82.81,1.47
+Startup_331,Gaming,Netherlands,2022,IPO,1201.13,1142,556.06,30.85,2.47
+Startup_332,Mobility,USA,2014,IPO,889.44,1237,289.42,13.7,1.54
+Startup_333,CleanTech,Germany,2011,Series A,1376.8,3235,110.32,95.27,2.07
+Startup_334,Biotech,Germany,2012,Seed,674.55,1840,148.92,56.48,1.25
+Startup_335,Gaming,Australia,2019,IPO,1310.69,4171,586.05,81.62,2.89
+Startup_336,SpaceTech,France,2019,Seed,991.59,2226,554.13,85.67,2.53
+Startup_337,E-commerce,Israel,2015,Series B,382.01,1787,392.05,26.01,1.3
+Startup_338,E-commerce,Australia,2010,Series A,1481.63,3704,755.3,8.75,3.04
+Startup_339,SpaceTech,UK,2013,Series C,1061.31,300,740.27,22.15,2.65
+Startup_340,Logistics,Germany,2019,Seed,856.24,2307,732.48,8.22,2.36
+Startup_341,Robotics,Germany,2015,IPO,1049.16,2242,238.58,92.82,1.99
+Startup_342,Cybersecurity,India,2023,Series D,1456.88,1635,755.47,50.05,3.22
+Startup_343,Mobility,Netherlands,2019,Series D,1294.44,2841,675.79,35.31,2.82
+Startup_344,AI,Canada,2012,Seed,1245.08,4886,30.57,61.65,1.61
+Startup_345,Cybersecurity,Israel,2017,IPO,352.71,2579,97.33,12.31,0.61
+Startup_346,Robotics,Canada,2023,Seed,1047.47,1946,272.56,73.85,1.96
+Startup_347,InsurTech,Netherlands,2011,Seed,107.38,4436,252.92,56.25,0.89
+Startup_348,AI,Germany,2019,Seed,1188.18,4733,255.68,64.46,2.02
+Startup_349,FoodTech,Canada,2019,IPO,1330.11,1777,493.07,27.13,2.45
+Startup_350,Logistics,Israel,2015,Series D,46.36,508,696.21,7.02,1.47
+Startup_351,Robotics,India,2011,Series B,1313.31,4080,423.62,94.21,2.63
+Startup_352,HealthTech,Germany,2015,Series C,1200.19,2078,798.35,38.32,2.99
+Startup_353,CleanTech,Singapore,2019,Seed,1153.11,3376,322.14,50.59,2.05
+Startup_354,Biotech,India,2014,IPO,944.98,3195,699.07,98.49,2.84
+Startup_355,CleanTech,France,2012,Series A,1154.73,3789,334.8,45.03,2.05
+Startup_356,ClimateTech,India,2014,Series B,1109.0,1193,191.78,15.5,1.57
+Startup_357,HealthTech,Australia,2014,IPO,538.39,1557,230.5,33.15,1.17
+Startup_358,HealthTech,Australia,2011,Series A,358.08,978,34.63,6.7,0.46
+Startup_359,Mobility,Germany,2021,Series B,1481.71,4673,342.79,41.51,2.37
+Startup_360,ClimateTech,Israel,2018,Series A,1022.67,2045,175.38,95.25,1.85
+Startup_361,Fintech,Singapore,2010,Series B,1181.65,3436,72.44,44.67,1.55
+Startup_362,AgriTech,Canada,2021,Series C,1319.89,756,755.84,49.4,3.08
+Startup_363,Fintech,Canada,2016,Seed,923.98,4970,134.46,99.16,1.69
+Startup_364,Fintech,Australia,2010,Series D,355.19,1945,754.24,66.72,2.2
+Startup_365,Robotics,France,2018,Series D,915.53,2236,410.64,26.91,1.87
+Startup_366,Blockchain,Australia,2021,Series B,273.03,2902,177.17,22.71,0.74
+Startup_367,FoodTech,UK,2013,IPO,1171.58,2364,280.75,10.5,1.79
+Startup_368,E-commerce,India,2013,Series C,1453.96,4754,707.14,93.14,3.33
+Startup_369,HealthTech,USA,2015,Series A,1492.41,3801,139.94,42.64,1.99
+Startup_370,PropTech,USA,2015,Series C,1139.78,227,557.12,19.62,2.35
+Startup_371,PropTech,Germany,2018,Series C,1225.59,2369,180.33,26.26,1.72
+Startup_372,SpaceTech,India,2022,Series D,810.09,3148,474.76,60.11,2.06
+Startup_373,EdTech,Canada,2013,Series D,146.32,3189,702.09,30.23,1.7
+Startup_374,SaaS,France,2019,Seed,202.98,961,711.11,95.79,2.1
+Startup_375,AI,Germany,2015,Series A,1294.57,985,647.8,67.25,2.93
+Startup_376,Logistics,Australia,2012,Series C,830.78,2627,70.5,43.8,1.19
+Startup_377,CleanTech,Canada,2013,Series C,565.31,4023,208.54,73.72,1.35
+Startup_378,HealthTech,Israel,2018,IPO,748.85,3234,65.76,25.92,1.01
+Startup_379,ClimateTech,UK,2018,Series B,1028.06,1117,61.83,85.86,1.58
+Startup_380,SaaS,Netherlands,2011,Seed,747.77,3238,384.99,61.28,1.82
+Startup_381,HealthTech,USA,2014,Series D,1238.77,1184,278.9,69.41,2.14
+Startup_382,Fintech,India,2021,Series D,852.94,2746,214.36,88.47,1.72
+Startup_383,Biotech,Israel,2016,Seed,1198.16,1939,527.1,85.81,2.68
+Startup_384,EdTech,Netherlands,2012,Seed,1302.27,3711,566.98,84.52,2.86
+Startup_385,PropTech,UK,2017,Series B,1049.23,3815,544.43,63.77,2.46
+Startup_386,SaaS,Canada,2012,IPO,1131.55,2658,127.73,88.68,1.83
+Startup_387,ClimateTech,Israel,2015,Series C,1309.05,2895,24.37,83.45,1.78
+Startup_388,FoodTech,USA,2023,Seed,202.02,3020,268.76,75.63,1.12
+Startup_389,Biotech,India,2018,Series B,249.53,2059,654.56,84.05,1.98
+Startup_390,AI,Canada,2020,Series A,766.13,863,6.1,32.27,0.94
+Startup_391,InsurTech,Australia,2014,Series B,929.22,2082,784.97,65.02,2.82
+Startup_392,EdTech,Israel,2022,Series D,397.11,3513,507.57,56.3,1.69
+Startup_393,CleanTech,Netherlands,2020,Series C,1171.97,1814,86.48,77.3,1.73
+Startup_394,AgriTech,Australia,2019,Series B,816.49,212,770.43,37.48,2.54
+Startup_395,CleanTech,Netherlands,2022,Series A,952.61,929,745.69,14.74,2.52
+Startup_396,Gaming,Australia,2022,Seed,1406.47,4230,550.62,11.44,2.56
+Startup_397,EdTech,UK,2011,Series D,458.44,409,566.83,11.4,1.65
+Startup_398,AI,Germany,2018,Series A,877.43,1459,277.36,63.99,1.75
+Startup_399,Mobility,Israel,2021,IPO,78.16,4795,697.36,97.48,1.96
+Startup_400,Cybersecurity,Israel,2014,Series D,1453.63,3943,599.97,17.36,2.74
+Startup_401,Mobility,Netherlands,2023,Seed,1139.81,2685,20.64,7.1,1.22
+Startup_402,PropTech,USA,2013,Seed,492.18,2451,391.43,78.19,1.67
+Startup_403,EdTech,UK,2018,Series C,1028.11,2040,357.28,30.99,1.9
+Startup_404,Mobility,Netherlands,2019,Series B,1495.72,2714,341.52,47.88,2.42
+Startup_405,SaaS,Canada,2010,Series B,253.8,3305,636.05,70.9,1.88
+Startup_406,CleanTech,USA,2019,Series D,338.95,4290,66.82,69.65,0.82
+Startup_407,CleanTech,Israel,2011,Series C,985.22,322,219.33,95.33,1.9
+Startup_408,Cybersecurity,USA,2017,Series D,235.08,2419,346.44,94.64,1.4
+Startup_409,SpaceTech,Netherlands,2021,Series C,635.39,4723,511.18,42.77,1.87
+Startup_410,InsurTech,India,2010,IPO,418.58,4071,787.2,43.89,2.21
+Startup_411,InsurTech,UK,2018,Series D,1342.21,2861,184.73,25.24,1.84
+Startup_412,HealthTech,Israel,2017,Series C,56.39,1287,521.68,40.01,1.3
+Startup_413,E-commerce,Singapore,2017,Series D,1297.89,3023,379.09,96.98,2.54
+Startup_414,Gaming,UK,2012,Series B,286.43,4549,695.03,78.78,2.07
+Startup_415,Cybersecurity,Netherlands,2014,Series C,1158.67,207,675.98,77.3,2.9
+Startup_416,SpaceTech,India,2017,Series C,943.07,1295,105.86,8.09,1.2
+Startup_417,AgriTech,Israel,2019,Series D,1382.06,4660,493.7,80.67,2.77
+Startup_418,InsurTech,UK,2013,Series D,727.47,1849,94.73,16.89,1.0
+Startup_419,ClimateTech,USA,2011,Series C,1031.49,839,344.81,24.05,1.84
+Startup_420,Mobility,Israel,2023,Series B,742.48,3806,52.3,60.29,1.15
+Startup_421,Logistics,UK,2010,IPO,410.8,2307,638.25,34.48,1.86
+Startup_422,HealthTech,Netherlands,2010,Series C,688.28,2452,10.28,11.88,0.77
+Startup_423,SpaceTech,Germany,2023,Series A,594.82,1476,384.47,62.0,1.67
+Startup_424,EdTech,UK,2022,Series B,444.58,2438,556.29,86.71,1.99
+Startup_425,ClimateTech,France,2018,IPO,1171.98,1578,32.66,50.65,1.49
+Startup_426,EdTech,Israel,2019,IPO,166.35,849,194.39,98.73,1.05
+Startup_427,PropTech,UK,2020,Seed,222.32,2005,399.61,63.72,1.34
+Startup_428,Blockchain,Israel,2016,Series C,1056.67,652,448.16,5.93,1.98
+Startup_429,Gaming,India,2011,Series D,496.43,3051,414.65,13.35,1.39
+Startup_430,Blockchain,Australia,2011,Series B,532.43,2973,27.53,12.46,0.65
+Startup_431,Mobility,Canada,2019,Series D,601.42,3811,107.04,58.92,1.11
+Startup_432,Robotics,India,2023,Series D,1037.3,1275,640.67,24.01,2.44
+Startup_433,CleanTech,Canada,2023,Series B,259.55,2702,84.55,65.46,0.76
+Startup_434,Cybersecurity,Singapore,2014,Series B,1062.65,4697,26.24,93.94,1.58
+Startup_435,InsurTech,Canada,2013,Series C,87.44,4111,433.5,72.36,1.32
+Startup_436,E-commerce,UK,2018,IPO,1307.74,2441,571.56,81.16,2.86
+Startup_437,InsurTech,Canada,2020,Seed,515.78,1342,652.05,12.61,1.88
+Startup_438,ClimateTech,Netherlands,2014,Series C,1343.28,985,438.53,82.64,2.63
+Startup_439,SaaS,France,2010,IPO,683.95,939,515.22,55.01,1.99
+Startup_440,E-commerce,UK,2011,IPO,1100.07,4082,66.22,10.73,1.29
+Startup_441,InsurTech,Germany,2011,Seed,378.18,683,128.48,87.82,1.07
+Startup_442,Gaming,Israel,2016,Seed,336.63,4686,780.72,37.01,2.08
+Startup_443,EdTech,Singapore,2019,Series B,281.36,2212,631.97,67.58,1.88
+Startup_444,E-commerce,Israel,2014,Series C,752.31,1817,444.74,73.32,2.01
+Startup_445,SpaceTech,Singapore,2011,Series C,350.4,311,797.07,97.61,2.43
+Startup_446,CleanTech,Canada,2010,Series B,978.99,3174,160.43,69.62,1.65
+Startup_447,Logistics,France,2012,Series C,117.58,161,25.49,29.48,0.32
+Startup_448,FoodTech,India,2020,Series D,699.31,2369,694.75,74.08,2.46
+Startup_449,CleanTech,Israel,2017,Series D,1116.63,1393,340.97,37.86,1.99
+Startup_450,AgriTech,India,2019,Series C,562.85,4893,790.13,8.81,2.19
+Startup_451,HealthTech,Singapore,2019,Seed,1301.88,1774,463.36,46.67,2.46
+Startup_452,CleanTech,Netherlands,2014,Series C,1090.63,3994,389.85,87.98,2.31
+Startup_453,Gaming,Singapore,2021,Series B,1352.05,2919,337.96,31.3,2.18
+Startup_454,Blockchain,UK,2021,Series A,892.6,3890,729.98,25.01,2.48
+Startup_455,InsurTech,France,2016,Series D,938.22,4538,505.62,74.65,2.32
+Startup_456,Gaming,Germany,2013,Series B,206.04,1544,572.94,91.36,1.81
+Startup_457,Logistics,Germany,2017,Seed,277.73,3846,190.8,97.28,1.15
+Startup_458,Mobility,Canada,2020,Series A,279.66,551,683.65,51.77,1.91
+Startup_459,Gaming,Canada,2018,Series C,378.37,4667,696.73,47.3,2.01
+Startup_460,E-commerce,Germany,2010,Seed,777.08,3792,288.03,61.33,1.66
+Startup_461,Robotics,Israel,2014,Series A,253.65,880,313.47,97.09,1.37
+Startup_462,SpaceTech,Singapore,2015,Series B,394.62,4717,525.73,35.89,1.63
+Startup_463,InsurTech,Singapore,2018,Series C,1162.47,3352,105.57,97.13,1.86
+Startup_464,CleanTech,Australia,2012,Series C,686.15,2676,189.6,11.98,1.13
+Startup_465,Robotics,Australia,2011,IPO,262.94,4937,416.3,37.02,1.28
+Startup_466,Logistics,France,2015,Seed,1245.04,3288,345.28,28.63,2.08
+Startup_467,Biotech,UK,2022,Series D,929.55,1085,565.71,20.87,2.17
+Startup_468,Gaming,Canada,2013,Series B,259.75,1431,30.3,74.96,0.7
+Startup_469,SpaceTech,USA,2016,Series C,999.07,1646,380.23,85.2,2.19
+Startup_470,AI,Australia,2014,Seed,1210.45,1217,468.7,87.49,2.59
+Startup_471,EdTech,France,2019,Series C,316.7,755,90.42,30.63,0.65
+Startup_472,Gaming,UK,2019,IPO,95.06,460,425.4,93.98,1.42
+Startup_473,FoodTech,Singapore,2020,Seed,68.62,1700,98.57,47.96,0.51
+Startup_474,Gaming,Singapore,2021,Series C,1401.47,4116,253.61,53.19,2.17
+Startup_475,FoodTech,Singapore,2016,IPO,71.94,3810,119.53,98.73,0.8
+Startup_476,Fintech,Germany,2011,Series A,1448.03,2811,4.95,95.42,1.94
+Startup_477,EdTech,Canada,2010,Seed,962.29,383,694.47,48.2,2.59
+Startup_478,Logistics,Germany,2020,Seed,778.24,3843,391.59,68.35,1.9
+Startup_479,HealthTech,Australia,2023,Seed,218.08,1612,24.95,34.25,0.44
+Startup_480,AI,USA,2015,Series C,1059.97,2049,162.28,68.98,1.73
+Startup_481,Logistics,Israel,2013,IPO,1455.17,2078,76.03,68.9,1.95
+Startup_482,E-commerce,UK,2020,Series B,671.19,2361,694.65,21.83,2.17
+Startup_483,Fintech,Germany,2018,Seed,1042.01,2671,670.65,94.74,2.86
+Startup_484,Robotics,UK,2018,Seed,1028.04,701,398.24,63.7,2.14
+Startup_485,PropTech,India,2021,Seed,1304.67,791,456.92,7.89,2.26
+Startup_486,Robotics,Germany,2016,Series C,1397.11,1961,551.93,69.27,2.85
+Startup_487,PropTech,Netherlands,2016,Series A,331.36,3710,527.45,42.42,1.6
+Startup_488,Gaming,Israel,2021,Series A,980.34,155,86.17,67.5,1.49
+Startup_489,Fintech,USA,2023,Seed,1499.13,1900,39.52,97.83,2.07
+Startup_490,Gaming,UK,2010,IPO,616.29,1610,696.73,79.33,2.41
+Startup_491,EdTech,Singapore,2011,Seed,854.85,4410,591.02,88.46,2.48
+Startup_492,Cybersecurity,France,2023,Series D,612.17,3666,262.3,68.42,1.48
+Startup_493,PropTech,USA,2020,IPO,1213.69,4185,610.07,80.79,2.84
+Startup_494,E-commerce,France,2023,IPO,659.02,3060,654.45,16.42,2.05
+Startup_495,ClimateTech,Australia,2022,Series A,821.29,1482,5.6,35.84,1.01
+Startup_496,HealthTech,Netherlands,2011,IPO,556.03,2210,317.54,71.07,1.55
+Startup_497,Blockchain,Germany,2011,Series B,588.95,2317,359.51,27.57,1.45
+Startup_498,InsurTech,France,2020,Series A,566.15,3005,182.59,11.95,0.99
+Startup_499,Gaming,USA,2013,Series C,909.14,882,534.9,63.85,2.3
+Startup_500,HealthTech,India,2013,Series D,700.61,2411,304.45,87.02,1.74
